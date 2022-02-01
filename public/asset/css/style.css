@@ -414,7 +414,9 @@ section{
     background:#eee;
     padding:1.5rem;
 }
-
+.content h4{
+    font-size: 19px;
+}
 .featured .featured-slider .box .content h3{
     font-size: 2rem;
     color:var(--black);
